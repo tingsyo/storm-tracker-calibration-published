@@ -7,7 +7,8 @@ Workflow and code
 - From level 0 to level 1: format unification.
 - From level 1 to level 2: correct known errors such as missing values and impossible data.
 - Perform CDF-based correction (and generate level 3 data) 
-<img src="https://github.com/tingsyo/storm-tracker-calibration-published/blob/main/docs/images/images/ver01_fig01.jpg" />
+
+<img src="https://github.com/tingsyo/storm-tracker-calibration-published/blob/main/docs/images/ver01_fig01.jpg">
 Image source: [Developing High-Quality Field Program Sounding Datasets (Ciesielski et al., 2011)](https://journals.ametsoc.org/view/journals/bams/93/3/bams-d-11-00091_1.xml)
 
 ## Example: 2021-0803-12Z
@@ -19,7 +20,7 @@ Image source: [Developing High-Quality Field Program Sounding Datasets (Ciesiels
     - [ST_L3_2021080312_3014.csv](https://github.com/tingsyo/storm-tracker-calibration-published/blob/main/release/ver_01_20240919/ST_L3_2021080312_3014.csv)
     - [ST_L2_2021080312_3014_cdf_corrected.csv](https://github.com/tingsyo/storm-tracker-calibration-published/blob/main/release/ver_01_20240919/ST_L2_2021080312_3014_cdf_corrected.csv)
 
-<img src="https://github.com/tingsyo/storm-tracker-calibration-published/blob/main/docs/images/images/ver01_fig02.jpg" />
+<img src="https://github.com/tingsyo/storm-tracker-calibration-published/blob/main/docs/images/ver01_fig02.jpg">
 
 
 ## Prerequisites of CDF-based Correction
